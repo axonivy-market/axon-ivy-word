@@ -4,9 +4,11 @@
   "namespace" : "com.axonivy.utils.axonivywords.demo.ConvertDocumentDialog",
   "fields" : [ {
     "name" : "uploadedFile",
-    "type" : "org.primefaces.model.file.UploadedFile"
+    "type" : "org.primefaces.model.file.UploadedFile",
+    "modifiers" : [ ]
   }, {
     "name" : "convertedFile",
-    "type" : "org.primefaces.model.DefaultStreamedContent"
+    "type" : "org.primefaces.model.DefaultStreamedContent",
+    "modifiers" : [ ]
   } ]
 }
